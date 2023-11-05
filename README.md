@@ -7,8 +7,7 @@
 ## Встановлення
 
 1. Клонуйте репозиторій:
-git clone https://github.com/yourusername/your-repo.git
-
+git clone https://github.com/SerhiiAndreiko/Web_HW_Module_09.git
 
 2. Встановіть необхідні залежності за допомогою pip:
 pip install -r requirements.txt
